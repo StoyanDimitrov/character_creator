@@ -1,0 +1,81 @@
+# textdomain: character_creator
+
+### init.lua ###
+Cancel=Отказ
+Done=Готово
+Shorter=По-нисък герой
+Taller=По-висок герой
+Thinner=По-тънък герой
+Wider=По-широк герой
+
+### init.lua ###
+### skins.lua ###
+Blue Eyes=Сини очи
+Blue Pants=Син панталон
+Brown Hair=Кафява коса
+Fair Skin=Светла кожа
+Female=Момиче
+Green T-Shirt=Зелена тениска
+Human Face=Човешко лице
+Leather Shoes=Кожени обувки
+Male=Момче
+Medium Hair=Кестенява коса
+
+### skins.lua ###
+Alien Face=Лице на извънземно
+Black Eyes=Черни очи
+Black Hair=Черна коса
+Black Pants=Черен панталон
+Black Shoes=Черни обувки
+Black Skin=Черна кожа
+Black T-Shirt=Черна тениска
+Blonde Hair=Руса коса
+Blue Canvas Pants=Син дочен панталон
+Blue Hair=Синя коса
+Blue Shirt=Синя блуза
+Blue Shoes=Сини обувки
+Blue T-Shirt=Синя тениска
+Blue Vest=Синя жилетка
+Brown Canvas Pants=Кафяв дочен панталон
+Brown Eyes=Кавяви очи
+Brown Shirt=Кафява блуза
+Brown Shoes=Кафяви обувки
+Brown Vest=Кафява жилетка
+Canvas Shoes=Платнени обувки
+Dark Skin=Тъмна кожа
+Dwarven Face=Лице на джудже
+Elven Face=Лице на елф
+Fur Shoes=Велурени обувки
+Green Canvas Pants=Зелен дочен панталон
+Green Eyes=Зелени очи
+Green Hair=Зелена коса
+Green Pants=Зелен панталон
+Green Shirt=Зелена блуза
+Green Shoes=Зелени обувки
+Green Skin=Зелена кожа
+Green Vest=Зелена жилетка
+Long Hair=Дълга коса
+Orange Eyes=Оранжеви очи
+Orange Hair=Оранжева коса
+Orange Pants=Оранжев панталон
+Orange T-Shirt=Оранжева тениска
+Purple Eyes=Лилави очи
+Purple Hair=Лилава коса
+Purple Pants=Лилав панталон
+Purple T-Shirt=Лилава тениска
+Red Eyes=Червени очи
+Red Hair=Червена коса
+Red Pants=Червен панталон
+Red Skin=Червена кожа
+Red T-Shirt=Червена тениска
+Short Hair=Къса коса
+Styled Hair=Прическа
+Tanned Skin=Тъмна кожа
+White Eyes=Бели очи
+White Hair=Бяла коса
+White Pants=Бял панталон
+White Skin=Бяла кожа
+White T-Shirt=Бяла тениска
+Yellow Eyes=Жълти очи
+Yellow Pants=Жълт панталон
+Yellow T-Shirt=Жълта тениска
